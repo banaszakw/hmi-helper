@@ -1,5 +1,5 @@
 # HMI_Helper
-Sort the word list and finds strict and "soft" duplicates. Application helps in translating the HMI docs. Requires: Python 3.4 and tkinter 8.6. 
+Sort the word list and finds strict and *soft* word repetitions. Application helps in translating the HMI docs. Requires: Python 3.4 and tkinter 8.6.
 
 ![HMI_Helper_GUI](/HMI_Helper_GUI.png)
 
